@@ -25,7 +25,7 @@ import (
 
 	"github.com/google/slothfs/cache"
 	"github.com/google/slothfs/gitiles"
-	"github.com/hanwen/go-fuse/fs"
+	fusefs "github.com/hanwen/go-fuse/fs"
 	"github.com/hanwen/go-fuse/fuse"
 )
 
